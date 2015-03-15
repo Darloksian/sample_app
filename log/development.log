@@ -1,0 +1,27 @@
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2015-03-15 16:46:55 +0200
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 632ms (Views: 622.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/static_pages-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/application-6b986c5138e72bdc4e471767b8fc5df4.js?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for 127.0.0.1 at 2015-03-15 16:46:56 +0200
